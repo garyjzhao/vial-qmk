@@ -30,5 +30,6 @@
     },
     "clangd.arguments": [
         "--header-insertion=never"
-    ]
+    ],
+    "cmake.sourceDirectory": "/Users/garyzhao/Code/kb/vial-qmk/lib/googletest"
 }
