@@ -6,8 +6,8 @@
 
 Make example for this keyboard (after setting up your build environment):
 
-    make keychron/q2/ansi_encoder:default
+    make keychron/q2/ansi_encoder:vial
 
 Flashing example for this keyboard:
 
-    make keychron/q2/ansi_encoder:default:flash
+    make keychron/q2/ansi_encoder:vial:flash
